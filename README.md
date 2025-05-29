@@ -1,5 +1,6 @@
-## Hi there 👋
+### Olá! Eu sou o MaxterSantos 👋
 
+## Estou aprendendo como usar essa rede.
 <!--
 **MaxterSantos/maxtersantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
